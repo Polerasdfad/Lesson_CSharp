@@ -1,0 +1,15 @@
+/Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/task4/bin/Debug/net8.0/task4
+/Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/task4/bin/Debug/net8.0/task4.deps.json
+/Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/task4/bin/Debug/net8.0/task4.runtimeconfig.json
+/Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/task4/bin/Debug/net8.0/task4.dll
+/Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/task4/bin/Debug/net8.0/task4.pdb
+/Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/task4/obj/Debug/net8.0/task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/task4/obj/Debug/net8.0/task4.AssemblyInfoInputs.cache
+/Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/task4/obj/Debug/net8.0/task4.AssemblyInfo.cs
+/Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/task4/obj/Debug/net8.0/task4.csproj.CoreCompileInputs.cache
+/Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/task4/obj/Debug/net8.0/task4.sourcelink.json
+/Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/task4/obj/Debug/net8.0/task4.dll
+/Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/task4/obj/Debug/net8.0/refint/task4.dll
+/Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/task4/obj/Debug/net8.0/task4.pdb
+/Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/task4/obj/Debug/net8.0/task4.genruntimeconfig.cache
+/Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/task4/obj/Debug/net8.0/ref/task4.dll
