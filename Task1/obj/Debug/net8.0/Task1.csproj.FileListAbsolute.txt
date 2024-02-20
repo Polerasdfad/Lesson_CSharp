@@ -12,3 +12,4 @@
 /Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/Task1/obj/Debug/net8.0/Task1.pdb
 /Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
 /Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/Task1/obj/Debug/net8.0/ref/Task1.dll
+/Users/vladimirtarasenko/Documents/Lesson_working Git/01_Csharp/Lesson1/Task1/obj/Debug/net8.0/Task1.sourcelink.json
